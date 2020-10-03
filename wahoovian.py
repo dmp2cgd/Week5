@@ -16,18 +16,16 @@ def wahoovian(matrix):
         return matrix
 
     #check if square
-    m = len(matrix[0])
-    n = matrix.size
-
-    if not(m == n):
+    [c, r] = matrix.shape
+    if not(r == c):
         logging.warning("Matrix is not square!")
         logging.info("Exiting Wahoovian")
         return matrix
 
     #transpose and negate
     else:
-        matrix.transpose()
-        np.negative(matrix)
+        print("reached third test")
+        tMatrix = np.transpose(matrix)
+        ntMatrix = np.negative(tMatrix)
         logging.info("Exiting Wahoovian")
-        return matrix
-
+        return ntMatrix
