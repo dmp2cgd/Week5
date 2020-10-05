@@ -14,11 +14,11 @@ def main():
     array1 = np.array([[1, 2], [3, 4]])
     array2 = np.array([[1], [2]])
     
-    wahoovian.wahoovian(array1)
-    print(array1, "\n")
+    m1 = wahoovian.wahoovian(array1)
+    print(m1, "\n")
 
-    wahoovian.wahoovian(array2)
-    print(array2)
+    m2 = wahoovian.wahoovian(array2)
+    print(m2)
 
     logging.info('Leaving program now')
 

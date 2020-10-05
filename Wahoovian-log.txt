@@ -1,7 +1,7 @@
-10/03/2020 13:23:02 INFO     Beginning program now
-10/03/2020 13:23:02 INFO     Entering Wahoovian
-10/03/2020 13:23:02 INFO     Exiting Wahoovian
-10/03/2020 13:23:02 INFO     Entering Wahoovian
-10/03/2020 13:23:02 WARNING  Matrix is not square!
-10/03/2020 13:23:02 INFO     Exiting Wahoovian
-10/03/2020 13:23:02 INFO     Leaving program now
+10/05/2020 10:55:59 INFO     Beginning program now
+10/05/2020 10:55:59 INFO     Entering Wahoovian
+10/05/2020 10:55:59 INFO     Exiting Wahoovian
+10/05/2020 10:55:59 INFO     Entering Wahoovian
+10/05/2020 10:55:59 WARNING  Matrix is not square!
+10/05/2020 10:55:59 INFO     Exiting Wahoovian
+10/05/2020 10:55:59 INFO     Leaving program now
